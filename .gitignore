@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Youtube/
 
 # Spyder project settings
 .spyderproject
